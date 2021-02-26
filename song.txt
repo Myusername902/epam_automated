@@ -24,3 +24,5 @@
 Но есть один момент.
 
 some content in feature nr. 1
+
+new content
